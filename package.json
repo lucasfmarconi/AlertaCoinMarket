@@ -1,0 +1,30 @@
+{
+  "name": "alertacoinmarket",
+  "version": "1.0.0",
+  "description": "Projeto de aplicacao para gerar alertas de variacao do mercado MarketCap bitcoin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucasfmarconi/AlertaCoinMarket"
+  },
+  "keywords": [
+    "Bitcoin",
+    "coinmarket",
+    "marketcap",
+    "alerta"
+  ],
+  "author": "Lucas F Marconi Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasfmarconi/AlertaCoinMarket/issues"
+  },
+  "homepage": "https://github.com/lucasfmarconi/AlertaCoinMarket#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "eslint": "^4.16.0",
+    "express": "^4.16.2"
+  }
+}
